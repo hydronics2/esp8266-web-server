@@ -5,6 +5,9 @@ This code was developed from this helpful example page: http://www.magusporta.co
 
 Even though there is no internet connection on the ESP, your phone or computer typically caches the .js files so it seems to work; such as, ...script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -28,4 +31,5 @@ Even though there is no internet connection on the ESP, your phone or computer t
 </div>
 
 </body>
+</html>
 </html>
